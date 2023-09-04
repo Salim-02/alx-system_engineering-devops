@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "to/n school"
+echo -e "to/nschool"
